@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(46, 45, 45);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+div#a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+    text-align: center;
+}
+div#p{
+    text-align: center;
+}
